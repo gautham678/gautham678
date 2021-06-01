@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautham678
 - 👀 I’m interested in coding and sports
-- 🌱 I’m currently learning web technologies 
+- 🌱 Full stack developer
 - 📫 reach me at https://www.linkedin.com/in/gautham-nachiappan-971050130/
 
 <!---
