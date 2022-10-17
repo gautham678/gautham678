@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gautham678
 - 👀 I’m interested in coding and sports
-- 🌱 Full stack developer
+- 🌱 Java developer
 - 📫 reach me at https://www.linkedin.com/in/gautham-nachiappan-971050130
 -  Developer profiles :-
 -  TechGIG : https://www.techgig.com/gauthammasss
